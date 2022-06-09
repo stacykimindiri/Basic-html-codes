@@ -1,7 +1,7 @@
-# Basic-hml-codes
+# Basic-html-codes
 build to build
 creating a boiler plate
- -for comments in hmtl <--comment-->
+ -for comments in html <--comment-->
  -<opening tag></closing tag>
 adding an imageto html
  -<img scr="imagename.extension">
